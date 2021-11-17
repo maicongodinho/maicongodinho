@@ -1,4 +1,6 @@
-👋 Hi, I’m @maicongodinho, and I am current working at @IBM as a Software Developer
+👋 Hi, my name is @maicongodinho and I currently work at @IBM as a software developer
+
+📙 I'm currently studying the C programming language and its features.
 
 <!---
 maicongodinho/maicongodinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
