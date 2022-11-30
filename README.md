@@ -273,6 +273,8 @@
   />
 </p>
 
+<br>
+
 <p>
   &nbsp;<img
     align="center"
@@ -280,6 +282,8 @@
     alt="maicongodinho"
   />
 </p>
+
+<br>
 
 <p>
   <img
