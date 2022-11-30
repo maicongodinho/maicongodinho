@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **tests with Jest and DDD**
 - 👯 I’m looking to collaborate on [carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular)
 - 💬 Ask me about **Angular**
-- 📫 How to reach me **maicongodinho1@gmail.com**
+- 📫 How to reach me maicongodinho1@gmail.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/maicongodinho/](https://www.linkedin.com/in/maicongodinho/)
 
 <h3 align="left">Connect with me:</h3>
