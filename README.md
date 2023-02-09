@@ -9,9 +9,8 @@
 </p>
 
 - 🔭 I’m currently working on [IBM](https://github.com/IBM)
-- 🌱 I’m currently learning **tests with Jest and DDD**
 - 👯 I’m looking to collaborate on [carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular)
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular**, **RxJs**, **NgRx**, **Typescript** and **Open Source**.
 - 📫 How to reach me maicongodinho1@gmail.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/maicongodinho/](https://www.linkedin.com/in/maicongodinho/)
 
