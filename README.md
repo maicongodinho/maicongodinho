@@ -262,16 +262,6 @@
   </a>
 </p>
 
-<h3 align="left">Metrics:</h3>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=maicongodinho&"
-    alt="maicongodinho"
-  />
-</p>
-
 <h3 align="left">Support:</h3>
 
 <p>
