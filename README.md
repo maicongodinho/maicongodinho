@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maicon Godinho</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Senior Application Developer from Brazil</h3>
 
 <p align="left">
   <img
@@ -9,8 +9,6 @@
 </p>
 
 - 🔭 I’m currently working on [IBM](https://github.com/IBM)
-- 👯 I’m looking to collaborate on [carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular)
-- 💬 Ask me about **Angular**, **RxJs**, **NgRx**, **Typescript** and **Open Source**.
 - 📫 How to reach me maicongodinho1@gmail.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/maicongodinho/](https://www.linkedin.com/in/maicongodinho/)
 
