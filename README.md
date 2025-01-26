@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maicon Godinho</h1>
-<h3 align="center">A passionate Senior Full-Stack Developer from Brazil</h3>
+<h3 align="center">A passionate Senior Software Developer from Brazil</h3>
 
 <p align="left">
   <img
